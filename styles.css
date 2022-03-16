@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=Fredericka+the+Great&family=Gideon+Roman&family=Merienda&family=Redressed&family=Shizuru&display=swap');
+html, .container-flex, body {
+    background-color: #FFFAF0;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Fredericka the Great', cursive;
+    color: teal;
+    margin-bottom: 70px;
+    font-size: 70px;
+}
+h5, h4 {
+    color: teal;
+    margin: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.row {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.colors, .fonts, .text {
+    border: 2px solid teal;
+    padding: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Merienda', cursive;
+    margin-bottom: 50px;
+    width: 100%;
+    height: 100%;
+}
+.blue {
+    background-color: #2d5dcc;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid #00008B;
+}
+.mint {
+    background-color: #4fe0b0;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid #66cdaa;
+    margin-left: 60px;
+}
+
+.burly {
+    background-color: burlywood;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid khaki;
+    margin-left: 60px;
+}
+.dark {
+    background-color: darkorchid;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid khaki;
+    margin-left: 60px; 
+    margin-top: 60px;
+}
+
+.gideon {
+    font-family: 'Gideon Roman', cursive;
+    border: 4px dashed teal;
+    font-weight: lighter;
+    margin-right: 40px;
+    font-size: 25px;
+}
+.redressed {
+    font-family: 'Redressed', cursive;
+    border: 4px dashed teal;
+    font-weight: lighter;
+    font-size: 25px;
+
+}
+.shizuru {
+    font-family: 'Shizuru', cursive;
+    border: 4px dashed teal;
+    font-weight: lighter;
+    font-size: 25px;
+    margin-left: 40px;
+}
+.cairo {
+    font-family: 'Cairo', sans-serif;
+    border: 4px dashed teal;
+    font-weight: lighter;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+.main, #main {
+    font-weight: 700 bold;
+    font-size: 35px;
+    font-family: 'Gideon Roman', cursive;
+}
+.small {
+    font-weight: 400 bold;
+    font-size: 20px;
+    font-family: 'Shizuru', cursive;
+}
+
+.par {
+    font-weight: 400;
+    font-size: 15px;
+    font-family: 'Redressed', cursive;
+}
+
+
+
